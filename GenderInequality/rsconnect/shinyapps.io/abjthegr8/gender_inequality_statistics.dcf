@@ -1,0 +1,12 @@
+name: gender_inequality_statistics
+title: Gender Inequality Statistics
+username:
+account: abjthegr8
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 245981
+bundleId: 1121809
+url: https://abjthegr8.shinyapps.io/gender_inequality_statistics/
+when: 1512678051.18402
+asMultiple: FALSE
+asStatic: FALSE
